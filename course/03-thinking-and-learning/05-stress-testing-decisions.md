@@ -82,7 +82,7 @@ Be specific to the details I've given. Then list the three most
 serious risks in order.
 ```
 
-The account it writes is uncomfortable to read. Agency staff could answer simple queries, but a third of weekend contacts are about damaged deliveries. These need access to the warehouse system and the authority to approve a replacement, and the plan gave the agency neither. So those cases waited for Monday, weekend satisfaction fell, and Monday became the in-house team's worst day.
+The account it writes is uncomfortable to read. Agency staff could answer simple queries, but many weekend contacts are likely to be about damaged deliveries. These need access to the warehouse system and the authority to approve a replacement, and the plan gave the agency neither. So those cases waited for Monday, weekend satisfaction fell, and Monday became the in-house team's worst day.
 
 Aisha checks her data. Damaged-delivery contacts are 31% of weekend volume. She had been thinking about total volume and had not looked at what the contacts were about.
 
@@ -123,9 +123,10 @@ On Thursday Aisha presents a changed plan. The agency handles simple weekend que
 
 - Formal decision-analysis methods and scoring matrices.
 - Asking the assistant to make the decision. It doesn't have your context and won't bear the consequences.
+
 ## In the module session
 
-The instructor stress-tests a real plan from the group using all five approaches, shows how easily an assistant can be argued out of a correct objection, and runs a cross-field exercise on a problem the group shares.
+The instructor stress-tests a real plan from the group with a pre-mortem and the case for the other side, shows how easily an assistant can be argued out of a correct objection, and asks how another field would handle the same problem.
 
 ## Check yourself
 

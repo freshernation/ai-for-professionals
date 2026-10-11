@@ -132,7 +132,7 @@ A scheduled task can usually use web search. Whether it can use your connected a
 
 ## In the module session
 
-The instructor designs a scheduled task live, shows a run that has failed without saying so and asks the group to spot it, and reviews the scheduled tasks that learners have set up.
+The instructor designs a scheduled task live, shows a run that has failed without saying so and asks the group to spot it, and shows three weeks of real runs and what changed after each.
 
 ## Check yourself
 

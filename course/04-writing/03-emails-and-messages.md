@@ -138,7 +138,7 @@ An assistant inside your mail client saves copying and pasting. The same rules a
 
 ## In the module session
 
-The instructor handles a difficult message live from brief to send, demonstrates the tone check on several versions of one message, and shows assistants working inside a mail client.
+The instructor handles a difficult message live from brief to send, demonstrates the tone check on several versions of one message, and, time permitting, shows an assistant working inside a mail client.
 
 ## Check yourself
 

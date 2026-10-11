@@ -90,7 +90,7 @@ All three languages are finished in two days. The time went on the script, on li
 ## In your tool
 
 - **ChatGPT, Claude and Gemini** all accept dictation and offer spoken conversation in their apps. Each can read its replies aloud.
-- **Gemini's NotebookLM** produces spoken overviews from a set of sources.
+- **Google's NotebookLM** produces spoken overviews from a set of sources.
 - **Narration and voice tools** are mostly separate products. Many video, presentation and e-learning tools include text-to-speech.
 
 Features and limits depend on your plan and your device.
@@ -112,7 +112,7 @@ Features and limits depend on your plan and your device.
 
 ## In the module session
 
-The instructor runs a spoken rehearsal live, produces a narration and corrects its errors with the group, plays an audio overview and checks it against its sources, and works through consent cases, including the request to clone a leader's voice.
+The instructor runs a spoken rehearsal live, produces a narration and corrects its errors with the group, and works through consent cases, including the request to clone a leader's voice.
 
 ## Check yourself
 

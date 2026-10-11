@@ -55,7 +55,7 @@ of rows affected.
 
 With a file uploaded, you can ask questions in plain language: "What were sales by region by month?", "Which ten customers account for the most revenue?", "Is there a relationship between discount and order size?"
 
-Behind the scenes, a capable assistant writes a small program, runs it on your file and reports the result. This matters. A number that comes from running a calculation is exact. A number the assistant simply "says" without running anything is a guess, and may be wrong.
+Behind the scenes, a capable assistant writes a small program, runs it on your file and reports the result. This matters. A number that comes from running a calculation is computed, not guessed, though it can still be the wrong calculation. A number the assistant simply "says" without running anything is a guess, and may be wrong.
 
 So look for the sign that it actually computed. Most tools show an "analysing" step, or let you open the code. If you are not sure, ask: "Did you calculate that by running code on the file, or estimate it? Show the calculation."
 
@@ -134,8 +134,6 @@ The whole job took thirty-five minutes. Had she skipped the checks, the director
 
 - **ChatGPT, Claude and Gemini** all accept spreadsheet files and can run calculations on them. Check that the analysis or code-execution feature is on for your account.
 - **Assistants inside the spreadsheet:** Microsoft Copilot in Excel and Gemini in Google Sheets work directly in the file, on eligible plans. ChatGPT and Claude each offer an add-in for Excel.
-
-Very large files may exceed upload limits. If so, analyse a filtered extract.
 
 ## Try it on your own work
 

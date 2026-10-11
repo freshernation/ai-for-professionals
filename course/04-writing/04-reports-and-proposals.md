@@ -131,7 +131,7 @@ In the meeting the finance director asks exactly that question. Omar turns to th
 
 ## In the module session
 
-The instructor takes a proposal through all seven stages in compressed form, plants inconsistencies for the group to find with and without the assistant, and covers how to manage a long document across sessions and collaborators.
+The instructor takes a proposal through the key stages, plants inconsistencies for the group to find with and without the assistant, and has the assistant read it as the decision-maker.
 
 ## Check yourself
 

@@ -105,7 +105,7 @@ She checks the arithmetic for one vendor by hand. On a three-year basis Vendor B
 
 **One file at a time.** Before she writes her recommendation, she asks about her preferred vendor alone: "Looking only at Vendor A's proposal, list anything that limits or qualifies what they are offering. Quote each." This finds a cap on the number of support tickets per month, which she had not seen in the table.
 
-On Friday her recommendation includes a comparison table in which every cell has a page reference, a cost comparison on a common basis, and a list of four questions still outstanding with vendors. One partner asks where the 9,500 came from, and she gives the page number.
+On Friday her recommendation includes a comparison table in which every cell has a page reference, a cost comparison on a common basis, and the two questions still outstanding with vendors. One partner asks where the 9,500 came from, and she gives the page number.
 
 ## In your tool
 
@@ -131,7 +131,7 @@ Limits on the number and size of files vary by tool and plan. If the set is larg
 
 ## In the module session
 
-The instructor compares a set of documents live with a planted trap in an appendix, shows how the same question does when asked across five files and of one, and explains how these tools decide which passages to read.
+The instructor compares a set of documents live with a planted trap in an appendix, puts the costs on a common basis, and explains how these tools decide which passages to read.
 
 ## Check yourself
 

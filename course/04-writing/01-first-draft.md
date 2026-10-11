@@ -117,7 +117,7 @@ Twenty-five minutes after he started, the summary is done. The assistant gave hi
 
 ## In the module session
 
-The instructor drafts a real document live from a volunteer's spoken notes, shows what happens when the thinking is delegated along with the wording, and covers how to manage long documents across several sessions.
+The instructor drafts a real document live from a volunteer's spoken notes, shows what happens when the thinking is delegated along with the wording, and shows how to spot where a draft has softened your view.
 
 ## Check yourself
 

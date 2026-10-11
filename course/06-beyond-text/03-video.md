@@ -100,7 +100,7 @@ Diego thinks about each one.
 
 **Recording.** He records the two pieces to camera on his phone by a window, in three takes each. He records the screen walk-through with a test account, so that no real patient names appear.
 
-**Editing.** He loads everything into an AI-assisted editor. It removes his pauses and two false starts, generates captions, and trims the result to ninety-four seconds. He asks his assistant which eight seconds to cut, and removes a repeated sentence.
+**Editing.** He loads everything into an AI-assisted editor. It removes his pauses and two false starts, generates captions, and trims the result to ninety-four seconds. He asks his assistant which four seconds to cut, and removes a repeated sentence.
 
 He uses one generated element: a five-second animated title card with the feature's name, in the company colours. It represents nothing real and deceives nobody.
 
@@ -134,7 +134,7 @@ Check what your organisation has approved before you upload footage of people or
 
 ## In the module session
 
-The instructor takes a short video from script to captioned cut, shows what generated clips and presenter tools can and cannot do at present, and works through cases on consent, testimonials and labelling.
+The instructor edits and captions real footage live, shows what generated clips and presenter tools can and cannot do at present, and works through cases on consent, testimonials and labelling.
 
 ## Check yourself
 

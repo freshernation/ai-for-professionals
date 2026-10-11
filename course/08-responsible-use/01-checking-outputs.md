@@ -98,11 +98,11 @@ She corrects all three. Then, because the count was wrong, she rechecks every ot
 
 *What if it is wrong?* A customer might install a valve on the strength of her statement. This is a safety matter and a liability matter. *Would she notice?* The draft looks authoritative. **Level 3.**
 
-The draft says the valve is rated to 20 bar and is therefore suitable. It gives the set pressure as "16 bar (323 psi)" and cites a specific clause of the standard for the test requirement.
+The draft says the valve is rated to 20 bar and is therefore suitable. It gives the set pressure as "16 bar (223 psi)" and cites a specific clause of the standard for the test requirement.
 
 She verifies each claim independently.
 - *The rating.* She opens the data sheet herself. The rating is 20 bar, but only for the stainless steel body. The customer's order is for the bronze body, which is rated to 16 bar. That leaves no margin, and a different recommendation is needed. The assistant had used the first figure it found.
-- *The conversion.* She does the calculation. 16 bar × 14.5 = 232 psi. The draft has 323, with two digits transposed.
+- *The conversion.* She does the calculation. 16 bar × 14.5 = 232 psi. The draft has 223, with two digits transposed.
 - *The clause.* She opens her own copy of the standard. The clause cited exists and deals with marking, not testing. The test requirement is in a different section.
 
 There are three errors in a four-sentence reply, and each was stated with complete assurance.

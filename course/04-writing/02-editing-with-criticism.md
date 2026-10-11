@@ -122,7 +122,7 @@ The case study still sounds like Elena. It now opens with the fact that matters,
 
 ## In the module session
 
-The instructor edits a real draft live in three passes, shows the difference between a critique and a rewrite on the same text, and works through how to judge which criticisms to accept.
+The instructor edits a prepared draft live, shows the difference between a critique and a rewrite on the same text, and works through how to judge which criticisms to accept.
 
 ## Check yourself
 

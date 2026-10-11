@@ -12,7 +12,7 @@ New users lose weeks to the question "which AI is best?". They read comparisons,
 
 **The three general assistants**
 
-ChatGPT (from OpenAI), Claude (from Anthropic) and Gemini (from Google) are the three most widely used general-purpose assistants. All three can write, summarise, explain, analyse files, search the web and work with images. All three have a free plan and paid plans. Others exist, including Microsoft Copilot, which many companies provide inside Office. Everything in this course applies to those as well.
+ChatGPT (from OpenAI), Claude (from Anthropic) and Gemini (from Google) are three of the most widely used general-purpose assistants. All three can write, summarise, explain, analyse files, search the web and work with images. All three have a free plan and paid plans. Others exist, including Microsoft Copilot, which many companies provide inside Office. Everything in this course applies to those as well.
 
 **How to choose: three questions, in this order**
 
@@ -98,7 +98,7 @@ The names of plans and what they include change often, so check each provider's 
 
 ## In the module session
 
-The instructor runs a live side-by-side comparison of the assistants on tasks suggested by the group, shows what the paid plans add in practice, and explains how business plans differ from personal ones.
+The instructor runs a live side-by-side comparison of the assistants on tasks suggested by the group and shows what the paid plans add in practice.
 
 ## Check yourself
 

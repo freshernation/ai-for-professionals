@@ -4,7 +4,7 @@
 
 Two short pieces of work, both on real matters from your job.
 
-**Part A: a learning plan you have started**
+**Part A: a learning plan you have started** (begin at least a week before the session)
 
 1. Choose something you need to learn in the next two months.
 2. Have the assistant interview you and build a plan with a destination, a sequence, an ignore list and weekly milestones. Make sure it tests your baseline with real questions.

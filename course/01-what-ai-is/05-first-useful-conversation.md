@@ -27,7 +27,7 @@ The first answer is a draft, not a verdict. Talk back to it:
 - "What have I not considered?"
 - "Explain the second point again, more simply."
 
-The assistant remembers the whole conversation, so each follow-up builds on what came before. Three rounds of steering usually beat one long, careful prompt.
+Within one chat the assistant keeps the whole conversation in view, so each follow-up builds on what came before. Three rounds of steering usually beat one long, careful prompt.
 
 **4. Check, then use.**
 Before you rely on the result, read it properly. Is every fact in it something you supplied or can verify? Did it quietly invent a detail? Does it say what you mean? Then edit it into your own words where it matters. You are responsible for whatever you send, sign or present.

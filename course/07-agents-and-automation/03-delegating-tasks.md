@@ -97,7 +97,7 @@ you assumed.
 
 **The plan.** The agent lists six steps. Step 3 says "extract invoice lines from each statement". Ibrahim asks, "How will you treat credit notes?" The agent replies that it will treat every line as an invoice. That is wrong. A credit note reduces what is owed. He adds a rule: "Lines marked as credit notes or with negative amounts are credits. Match them to credit entries in the ledger."
 
-The question took a minute. Without it, every supplier with a credit note would have shown a false discrepancy.
+Without it, every supplier with a credit note would have shown a false discrepancy.
 
 **The pilot.** The agent processes three suppliers and stops. Ibrahim checks all three by hand.
 - Two are right.
@@ -105,7 +105,7 @@ The question took a minute. Without it, every supplier with a credit note would 
 
 He runs the three again. All three are now correct.
 
-**The full run.** He starts it, watches for a few minutes, and looks again after ten. It finishes in twenty-five.
+**The full run.** He starts it and watches the first few minutes. It finishes in twenty-five.
 
 **The review.**
 
@@ -126,7 +126,7 @@ He runs the three again. All three are now correct.
 
 **The judgement.** He asks the agent to draft a query email for each of the four real discrepancies and to save them as drafts without sending them. He reads each one, softens the wording to the supplier who double-invoiced, since it is a long-standing relationship and probably an honest mistake, and sends all four himself.
 
-The reconciliation took three hours in place of two days. He saves the brief, now including the rules on credit notes, invoice number formats and timing in both directions, as "Month-end supplier reconciliation". Each of those three rules came from something the plan or the pilot showed him. None of them was in his first draft.
+The reconciliation took three hours in place of two days. He saves the brief, now including the rules on credit notes, invoice number formats and timing in both directions, as "Month-end supplier reconciliation". Each of those three rules came from something the plan, the pilot or the review showed him. None of them was in his first draft.
 
 ## Try it on your own work
 
@@ -141,7 +141,7 @@ The reconciliation took three hours in place of two days. He saves the brief, no
 ## Ignore for now
 
 - Tasks in which the agent sends, pays, deletes or publishes.
-- Skipping the pilot.
+- Long unattended runs with no checkpoint.
 
 ## In the module session
 

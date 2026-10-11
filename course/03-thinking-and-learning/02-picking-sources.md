@@ -23,11 +23,11 @@ source on this topic, and for each kind, the one or two best examples
 with links. Include official or primary sources, a good overview for
 a newcomer, and the most respected expert voices.
 
-Then tell me which three or four I should actually read, in what
-order, which are too advanced for now, and what I can safely ignore.
+Then recommend a short reading order of three or four, flag anything
+I am not ready for yet, and say what I can skip.
 ```
 
-This asks the assistant to do what a good librarian does. A librarian does not hand you everything. They tell you where to start and what to leave.
+A good guide to a subject does not hand you everything. They tell you where to start and what to leave, and that is what this prompt asks for.
 
 **Step 2: Know the kinds of source**
 
@@ -66,11 +66,11 @@ cover something, say so. Don't fill the gap from general knowledge.
 
 This changes the quality of the answers. The assistant is no longer drawing on everything it has absorbed. It is reading the material you chose and reporting what that material says, and you can check each point against a page.
 
-Three to five sources is enough to get oriented. A few good ones read properly will serve you better than many skimmed.
+Three or four sources is enough to get oriented. A few good ones read properly will serve you better than many skimmed.
 
 ## Worked example
 
-Hana is an HR director at a manufacturing company with sites in three European countries. New pay transparency rules are coming into force and the board wants a briefing. A search turns up hundreds of articles, most from law firms and HR software companies, all slightly different and many of them urgent in tone.
+Hana is an HR director at a manufacturing company with sites in three European countries. New pay transparency rules have recently come into force and the board wants a briefing. A search turns up hundreds of articles, most from law firms and HR software companies, all slightly different and many of them urgent in tone.
 
 She asks her assistant for a map, using the prompt above and adding: "I know employment law in general terms but have not followed this. We operate in Germany, Poland and Ireland."
 
@@ -110,9 +110,10 @@ Limits on how many sources you can add, and how large, depend on your plan.
 
 - Reading everything. The point of this lesson is to give yourself permission not to.
 - Formal systems for rating evidence quality.
+
 ## In the module session
 
-The instructor builds a source set live on a topic chosen by the group, shows how identical questions get different answers with and without chosen sources, and explains how these tools find the passage they quote.
+The instructor checks an unfamiliar source live by leaving it, shows how identical questions get different answers with and without chosen sources, and explains how these tools find the passage they quote.
 
 ## Check yourself
 

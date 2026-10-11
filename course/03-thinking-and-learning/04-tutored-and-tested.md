@@ -12,7 +12,7 @@ Ask an assistant to explain something and you get a clear, well-organised explan
 
 **Teacher and tutor**
 
-A teacher explains the material to a group. A tutor works with one person and finds that person's particular confusion. One-to-one tutoring has long been regarded as the most effective form of teaching. In a well-known 1984 paper, the educational researcher Benjamin Bloom reported that tutored students did dramatically better than those taught in an ordinary class. Later reviews found a smaller effect than his, and still a large one. The trouble was always cost, and that constraint has now largely gone.
+Teaching a class means explaining to everyone at once. Tutoring means working with one learner, watching where they go wrong and dealing with that. One-to-one tutoring has long been regarded as the most effective form of teaching. In a well-known 1984 paper, the educational researcher Benjamin Bloom reported that tutored students did dramatically better than those taught in an ordinary class. Later reviews found a smaller effect than his, and still a large one. The trouble was always cost, and that constraint has now largely gone.
 
 **Why being tested works**
 
@@ -23,30 +23,31 @@ Pulling something out of your memory strengthens it more than putting it in agai
 You have to switch the assistant out of explaining mode. Four instructions do it:
 
 ```
-Be my tutor on [topic]. I'm learning it so that I can [purpose].
+Quiz me on [topic] instead of explaining it. I'm learning it so that
+I can [purpose].
 
-- Ask me one question at a time and wait for my answer.
-- Don't lecture. Don't explain until I've had a go.
-- Your aim is to find the gaps in my understanding.
-- Be precise about what I got right and what I got wrong. Don't
-  praise me unless I've earned it.
+- Put one question to me, then stop until I have answered.
+- Hold back any explanation until I have tried.
+- Aim your questions at what I seem not to understand.
+- When I answer, say exactly which part was right and which was
+  wrong. Skip the encouragement.
 ```
 
 Each line blocks a habit:
 
 | Instruction | What it prevents |
 |---|---|
-| One question at a time | A list of questions you skim and half answer |
-| Don't lecture | The default: a tidy explanation you read passively |
-| Find the gaps | Questions about what you already know, which feel good and teach nothing |
-| Be precise | "Great answer!" followed by a correction you barely notice |
+| One question, then stop | A batch of questions, of which you answer only the easy ones |
+| Hold back explanation | The default: a tidy explanation you read passively |
+| Aim at what I don't understand | Questions about what you already know, which feel good and teach nothing |
+| Say exactly what was right and wrong | "Great answer!" followed by a correction you barely notice |
 
 **Two short commands**
 
 For everyday use, two phrases cover most of what you need:
 
-- **"Teach me [X]"** asks for an explanation. Use it when something is new to you.
-- **"Test me on [X]"** makes you produce the answers. Use it once you think you understand.
+- **"Explain [X] to me"** asks for an explanation. Use it when something is new to you.
+- **"Quiz me on [X]"** makes you produce the answers. Use it once you think you understand.
 
 Move between the two. Learn a little, then get tested on it, and go back to the explanation only where the testing shows a gap.
 
@@ -55,7 +56,7 @@ Move between the two. Learn a little, then get tested on it, and go back to the 
 - **Explain it back.** "I'm going to explain [concept] in my own words. Tell me what I've got wrong or left out." Teaching something is the hardest test of understanding it.
 - **Apply it.** "Give me a realistic situation from [my field] where I'd need to use this, and let me work through it."
 - **Find the edge.** "Keep making the questions harder until I get one wrong."
-- **Come back later.** "Test me on what we covered last week." Returning after a gap is when the testing does most good.
+- **Come back later.** "Quiz me on what we covered last week." Returning after a gap is when the testing does most good.
 
 Tutoring also works well aloud, in your assistant's voice mode.
 
@@ -72,14 +73,14 @@ The assistant can be wrong too. For specialised, recent or contested material, g
 Sofia is a finance analyst at a retail chain. She has been asked to evaluate a programme in which the twenty worst-performing stores received extra management coaching. Sales at those stores rose 8% the following quarter, and the operations team wants to roll the programme out to every store. A colleague mentioned "regression to the mean" in passing. Sofia read an explanation of it and thinks she understands. She decides to find out.
 
 ```
-Be my tutor on regression to the mean. I'm a finance analyst and need
-to judge whether a coaching programme for underperforming stores
-really worked.
+Quiz me on regression to the mean instead of explaining it. I'm a
+finance analyst and need to judge whether a coaching programme for
+underperforming stores really worked.
 
-- Ask me one question at a time and wait for my answer.
-- Don't lecture. Don't explain until I've had a go.
-- Your aim is to find the gaps in my understanding.
-- Be precise about what I got right and wrong.
+- Put one question to me, then stop until I have answered.
+- Hold back any explanation until I have tried.
+- Aim your questions at what I seem not to understand.
+- Say exactly which part of each answer was right and which wrong.
 ```
 
 > **Assistant:** In your own words, what is regression to the mean?
@@ -114,13 +115,14 @@ She had read an explanation and believed she understood. The second question sho
 2. Use the tutor prompt. Answer every question before reading on.
 3. Keep going until you get one wrong. Note what the gap was.
 4. Ask for an explanation of that point only, then ask to be tested on it in a different form.
-5. Tomorrow, open a chat and say "Test me on [the concept]" without re-reading anything.
+5. Tomorrow, open a chat and say "Quiz me on [the concept]" without re-reading anything.
 6. If your assistant has a voice mode, try step 2 aloud.
 
 ## Ignore for now
 
 - Flashcard apps and formal study systems. "Test me" covers most needs.
 - Worrying about looking foolish. Nobody is watching, and wrong answers are what you are after.
+
 ## In the module session
 
 The instructor runs a live tutoring exchange with a volunteer, shows the difference between an explanation and a diagnosis, and goes through the research on tutoring and testing, including what Bloom's study did and did not show.

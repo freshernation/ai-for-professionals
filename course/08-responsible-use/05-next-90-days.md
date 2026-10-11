@@ -14,7 +14,7 @@ Reading about AI changes nothing, and a course about it changes little more if y
 
 Three is enough to matter and few enough to keep up. Pick tasks that are:
 
-- **frequent**, weekly or more, so that the habit forms and the saving adds up;
+- **frequent**, weekly if possible and monthly at least, so that the habit forms and the saving adds up;
 - **suited to it**, meaning drafting, summarising, structuring, preparing or analysing something you can check;
 - **yours to change**, so that you need nobody's permission.
 
@@ -25,7 +25,7 @@ Leave out, for now, tasks that are high in stakes and hard to check.
 A milestone is something you have produced or done. A statement of intent does not count. "Get better at prompting" cannot be checked. "A tested, saved prompt for the weekly report, used four weeks running" can.
 
 **Day 30: three things working.**
-For each of your three tasks, a saved prompt or method that you have used at least three times, with a checking routine that fits the stakes.
+For each of your three tasks, a saved prompt or method that you have used on real work, three times or more where the task is weekly, with a checking routine that fits the stakes.
 
 **Day 60: one step further, and a measurement.**
 Take on one thing that is harder than what you do now, such as a multi-step task handed to an agent or a small tool you have built. Keep a two-week log of time with and without.
@@ -98,7 +98,7 @@ After eight questions, the plan takes shape. The assistant had suggested draftin
 
 **Milestones.**
 
-*Day 30:* a saved, tested prompt for each of the three, each used at least three times, with her checking rule written down: every figure traced to the ledger before anything leaves her desk.
+*Day 30:* a saved, tested prompt for each of the three, each used on real work, with her checking rule written down: every figure traced to the ledger before anything leaves her desk.
 
 *Day 60:* one step further. She will hand the preparation for the monthly supplier reconciliation to an agent, with a pilot first and nothing sent, and keep a two-week time log.
 

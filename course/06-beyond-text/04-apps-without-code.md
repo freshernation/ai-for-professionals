@@ -12,15 +12,14 @@ Every workplace runs on small tools that nobody ever built: a calculation someon
 
 ### What you can build
 
-
-- **Calculators:** a quote, a commission, a dosage by weight, a loading plan, a break-even point.
+- **Calculators:** a quote, a commission, a discount, a loading plan, a break-even point.
 - **Checklists and guided steps:** an opening routine, a handover, an inspection.
 - **Converters:** units, time zones, text into a standard format.
 - **Simple trackers and forms.**
 
 ### How it works
 
-You describe the tool to your assistant. It writes the code and shows you the working tool in a panel beside the chat. You can use it at once, and you ask for changes in plain language. You never need to look at the code.
+You describe the tool to your assistant. It writes the code and shows you the working tool in a panel beside the chat. You can use it at once, and you ask for changes in plain language.
 
 ### Describing a tool
 
@@ -32,7 +31,7 @@ Cover five things:
 4. **The rules.** Exactly how the result is worked out. This is the part that matters most and the part most often left vague.
 5. **How it should look and behave.** Large buttons, a clear result, what happens when the input is invalid.
 
-Give the rules as you would explain them to a new colleague, and include one example with the answer worked out. A worked example removes most ambiguity.
+Give the rules as you would explain them to a new colleague, and include one example with the answer worked out.
 
 ### Build in small steps
 
@@ -69,8 +68,8 @@ If a wrong result could cause harm or cost money, the tool needs a proper review
 **A simple rule**
 
 - **For you alone, with nothing confidential in it:** build and use freely.
-- **For your team, with no personal or confidential data, low stakes:** share it, tell people it is a home-made tool, and say how to check its answers.
-- **Anything that stores other people's data, handles money or safety, or that many people will depend on:** treat what you built as a prototype. Take it to IT.
+- **For your team, with no personal or confidential data, low stakes:** share it, tell people it is a home-made tool, and say how to check its answers. If a wrong answer could affect safety, have a responsible person approve your tests first.
+- **Anything that stores other people's data, handles money, or that many people will depend on:** treat what you built as a prototype. Take it to IT.
 
 ## Worked example
 
@@ -95,7 +94,7 @@ Large buttons and text. If an input is missing or out of range, show
 a clear message instead of a result.
 ```
 
-A working calculator appears in about twenty seconds. He types in 130 and 18, and it shows **3 pallets**. It looks finished.
+A working calculator appears. He types in 130 and 18, and it shows **3 pallets**. It looks finished.
 
 **Testing.** Before building, Hamza had worked four cases out by hand.
 
@@ -124,13 +123,13 @@ The assistant corrects it. Hamza runs all four tests again, and all pass.
 
 His description had said "boxes cannot be split". The first version ignored that and still gave the right answer for his example. Only the unusual case showed the fault.
 
-**Trying to break it.** He types "abc" into the box count and gets a clear message. He asks a colleague to use it without any explanation. She asks whether the weight is per box or for the whole order. He has the label changed to "Weight of ONE box (kg)".
+**Trying to break it.** He asks a colleague to use it without any explanation. She asks whether the weight is per box or for the whole order. He has the label changed to "Weight of ONE box (kg)".
 
 **The four questions.**
 - *Where does the data go?* He asks. Nothing is stored.
 - *Who can open it?* Anyone with the link. It contains only arithmetic.
 - *What will people type in?* Box counts and weights.
-- *What if it is wrong?* Overloading a pallet is a safety matter. So he shows the operations manager his test cases and writes a line on the tool itself: "Home-made tool. If the answer looks wrong, check by hand and tell Hamza."
+- *What if it is wrong?* Overloading a pallet is a safety matter. So he has the operations manager check and approve his test cases before he shares it, and writes a line on the tool itself: "Home-made tool. If the answer looks wrong, check by hand and tell Hamza."
 
 He shares the link with the four supervisors. When one asks for mixed box sizes, a harder problem, he takes the working calculator to IT as an example of what they need.
 

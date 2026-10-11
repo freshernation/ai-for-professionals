@@ -78,7 +78,7 @@ In the end he used AI for the writing and the structure, verified the arithmetic
 
 ## In the module session
 
-The instructor shows each failure happening live, explains why fabrication occurs and why it cannot simply be switched off, and works through borderline tasks from your own jobs to decide which category they fall in.
+The instructor shows each failure happening live, explains why fabrication occurs and why it cannot simply be switched off, and sorts the errors the group has met into those failure types.
 
 ## Check yourself
 

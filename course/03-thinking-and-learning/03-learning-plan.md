@@ -14,15 +14,15 @@ A good learning plan makes five decisions. A good teacher or mentor makes them f
 
 **1. Destination: what will you be able to do?**
 
-State an ability, with its purpose attached. "Learn about pricing" has no end. "Be able to propose and defend a price for our new product tier to the commercial director" tells you what to study and when you are finished. Naming the destination turns a subject into an outcome, and the plan can then be built backwards from it.
+State an ability, with its purpose attached. "Learn about pricing" has no end. "Be able to propose and defend a price for our new product tier to the commercial director" tells you what to study and when you are finished. Once the end point is an ability, each week of the plan can be justified by asking whether it gets you closer to it.
 
 **2. Baseline: where are you starting?**
 
-Without this, any plan assumes a complete beginner and wastes your first two weeks. You probably know more than nothing. You may also have gaps in things you believe you know. Have the assistant find out, and don't try to describe your level yourself.
+A plan that does not know your starting point has to guess, and it usually guesses too low. You probably know more than nothing. You may also have gaps in things you believe you know. Have the assistant find out, and don't try to describe your level yourself.
 
 **3. Sequence: in what order?**
 
-Order is what makes a pile of topics into a curriculum. Some ideas only make sense after others. A good sequence puts the foundations first and gets you doing something real early, so that the learning has something to attach to.
+The same topics in a different order can be far harder to learn. Some ideas only make sense after others. A good sequence puts the foundations first and gets you doing something real early, so that the learning has something to attach to.
 
 **4. Ignore list: what are you leaving out for now?**
 
@@ -34,35 +34,33 @@ Each stage should end with something you produce or do: explain a concept withou
 
 **The prompt**
 
-Ask the assistant to interview you on these five things before it writes anything:
+Have the assistant question you before it writes anything:
 
 ```
-I want to learn [subject] so that I can [what you want to be able
-to do, and why].
+Build me a [number]-week plan for learning [subject]. I can give it
+about [hours] a week. The point is to be able to [what you want to
+be able to do, and why].
 
-Act as my learning advisor and build me a [number]-week plan. I can
-give it about [hours] a week.
-
-Before you write the plan, interview me. Ask one question at a time
-and wait for each answer. Cover:
-- exactly what I need to be able to do at the end;
-- what I already know (test me with a few questions; don't just ask
-  me to rate myself);
-- how I learn best and what time I really have.
-
-Then give me a plan with:
+The plan should have:
 - the topics in order, week by week, with a reason for the order;
-- a list of what I should ignore for now;
+- a list of what to leave out at this stage;
 - one milestone per week: something I produce or do that shows I've
   got it;
 - two or three recommended sources per week.
+
+Don't write it yet. First question me, one question at a time,
+waiting for each answer. Find out:
+- exactly what I need to be able to do at the end;
+- what I already know (test me with a few questions; don't just ask
+  me to rate myself);
+- how much time I really have.
 ```
 
 Note the line "test me with a few questions". People are poor judges of their own level. A few real questions find the baseline much more accurately than "I'd say intermediate".
 
 **Then get it out of the chat**
 
-A plan left in a chat window is forgotten within a week. Put the study sessions in your calendar as appointments, and save the plan in a document you will open again. It takes five minutes.
+A plan you never see again will not be followed. Put the study sessions in your calendar as appointments, and save the plan in a document you will open again. It takes five minutes.
 
 **Keep the plan alive**
 
@@ -72,7 +70,7 @@ At the end of each week, return to the same chat, report what you did and how th
 
 Lucas is a product marketing manager at a software company. The company is introducing a new premium tier, and he has been asked to recommend its price. He has never done pricing work. He has six weeks before the recommendation is due, and perhaps three hours a week.
 
-He uses the prompt, with: "I want to learn pricing strategy so that I can recommend and defend a price for a new premium software tier to our commercial director."
+He uses the prompt, giving the purpose as "to recommend and defend a price for a new premium software tier to our commercial director."
 
 The assistant interviews him. Shortened:
 
@@ -101,7 +99,7 @@ After six questions the assistant produces a plan. In summary:
 
 The baseline question mattered. Lucas would have called himself "reasonably numerate" and skipped the margin arithmetic. The wrong answer showed that this was exactly where he needed to start.
 
-He puts six one-and-a-half-hour sessions in his calendar and saves the plan in a document. At the end of week 3 he reports that he managed only three customer conversations. The assistant moves two to week 4 and shortens the competitor work to make room.
+He puts twelve one-and-a-half-hour sessions in his calendar, two a week, and saves the plan in a document. At the end of week 3 he reports that he managed only three customer conversations. The assistant moves two to week 4 and shortens the competitor work to make room.
 
 ## Try it on your own work
 
@@ -116,9 +114,10 @@ He puts six one-and-a-half-hour sessions in his calendar and saves the plan in a
 
 - Finding the perfect course or the ideal book before you start. A good-enough plan begun this week is worth more.
 - Plans longer than eight weeks. Plan the first stretch, and plan again when you get there.
+
 ## In the module session
 
-The instructor builds a plan live with a volunteer, shows how the baseline questions change the plan, and covers what research on learning says about sequencing, spacing and why most self-study is abandoned.
+The instructor builds a plan live with a volunteer, shows how the baseline questions change the plan, and shows how to cut a plan to fit the time you have.
 
 ## Check yourself
 

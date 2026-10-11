@@ -19,7 +19,7 @@ Bring to the module session:
 - The output from your test run in a new chat.
 - One sentence on the correction that made the biggest difference.
 
-If the task was new to you, also bring the question from the assistant's interview that you found hardest to answer.
+If you had the assistant interview you, also bring the question you found hardest to answer.
 
 ## How you know it is good
 

@@ -7,7 +7,7 @@ By the end you will know what to hand to an AI assistant, how to get a good resu
 ## How to use it
 
 - Begin with [Start here](course/00-start-here.md). It takes ten minutes and sets your personal goal.
-- Each lesson takes 10 to 15 minutes, including an exercise on your own work.
+- Each lesson takes 10 to 15 minutes to read and to start its exercise. Some exercises continue through your week.
 - Every lesson stands alone. Follow the order, or jump to what you need this week.
 - Each module ends with a milestone: one real piece of your own work, done with AI.
 - You need one assistant: ChatGPT, Claude or Gemini. The lessons work with any of them.

@@ -92,13 +92,13 @@ He decides to treat this as a team matter, not as one person's failing.
 
 "That's the part that matters," he says. "It took me twelve minutes, and three of those were checking." Each planner then does one of their own.
 
-**Concerns.** Helga, who has twenty years' experience, is openly sceptical. "I can write these in my sleep, and mine are right." Farid asks her to time one each way. Hers takes seventy minutes by hand and twenty-five with the assistant, and she finds two errors in the draft. "It's faster," she says. "But I wouldn't trust anyone to send these without checking." Farid asks her to review the team's checking for the first month. She says yes.
+**Concerns.** Helga, who has twenty years' experience, is openly sceptical. "I can write these in my sleep, and mine are right." Farid asks her to time her Friday set each way. It takes seventy minutes by hand and twenty-five with the assistant, and she finds two errors in the draft. "It's faster," she says. "But I wouldn't trust anyone to send these without checking." Farid asks her to review the team's checking for the first month. She says yes.
 
 Joon, the newest planner, is one of the constant users. His summaries are fluent, but when Farid asks him why a particular route ran late, he cannot say. He has been passing on what the assistant wrote. Farid asks him to write the delay analysis himself for the next month and use the assistant only for the wording, and pairs him with Helga for an hour a week.
 
 **Sharing.** He starts a prompt library and adds ten minutes to the Monday meeting. In the first week nobody admits to anything going wrong. In the second, one of the confident users describes a summary that gave the wrong month's figures. After that, people talk more freely.
 
-**Six weeks on.** The Friday summaries take about thirty-five minutes each. Six of the eight planners use the assistant for them. One prefers to write his own, and Farid leaves him to it. There have been no further customer complaints. Twice, a planner has sent a colleague's note back with "has this been checked?", and nobody took offence.
+**Six weeks on.** The Friday summaries take each planner about thirty-five minutes. Seven of the eight planners use the assistant for them. One prefers to write his own, and Farid leaves him to it. There have been no further customer complaints. Twice, a planner has sent a colleague's note back with "has this been checked?", and nobody took offence.
 
 ## Try it on your own work
 
@@ -114,10 +114,9 @@ Joon, the newest planner, is one of the constant users. His summaries are fluent
 - Mandating use, or measuring who uses it most.
 - Large training programmes. One real task done well does more.
 
-
 ## In the module session
 
-The instructor facilitates the drafting of a one-page team agreement, role-plays the difficult conversations with sceptical and over-reliant colleagues, and discusses what learners have seen work and fail in their own teams.
+The instructor facilitates the drafting of a one-page team agreement, role-plays a conversation with a doubtful manager, and discusses what learners have seen work and fail in their own teams.
 
 ## Check yourself
 

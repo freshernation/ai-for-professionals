@@ -4,7 +4,7 @@ This page takes about ten minutes. It tells you how the course works, shows you 
 
 ## How the course works
 
-There are eight modules of five lessons each. A lesson takes 10 to 15 minutes and always has the same parts:
+There are eight modules of five lessons each. A lesson takes 10 to 15 minutes to read and to start its exercise, and always has the same parts:
 
 - **Outcome**: what you will be able to do afterwards.
 - **Why it matters**: the work situation it helps with.
@@ -56,7 +56,7 @@ Find out:
 1. What my working week actually consists of.
 2. Which tasks take the most time or that I most dislike.
 3. What I have already tried with AI, and how it went.
-4. What I would like to be able to do in eight weeks that I can't do now.
+4. What I would like to be able to do by the end of this course that I can't do now.
 
 After about eight questions, give me:
 - One sentence stating my goal for the course.

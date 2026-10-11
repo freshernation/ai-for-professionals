@@ -19,7 +19,7 @@ For anything you will rely on, you want the second. Most assistants search on th
 
 **Research modes**
 
-ChatGPT, Claude and Gemini each have a deeper research mode. You give it a question, it may ask you one or two things to narrow the scope, then it works for several minutes: searching, reading, searching again as it learns more, and writing a structured report with citations. Use it for questions that deserve a proper brief. For a quick fact, ordinary search is enough.
+Most assistants now have a deeper research mode. You give it a question, it may ask you one or two things to narrow the scope, then it works for several minutes: searching, reading, searching again as it learns more, and writing a structured report with citations. Use it for questions that deserve a proper brief. For a quick fact, ordinary search is enough.
 
 **A research request that works**
 

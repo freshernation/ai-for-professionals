@@ -36,9 +36,8 @@ The most useful thing you can give an assistant is real material from your work.
 - do not ask it to reproduce or imitate a specific work, author or brand;
 - do not paste in copyrighted material you have no right to use, such as a paid report, to be reworked into your own document. Many licences forbid uploading their content to AI tools at all;
 - if an output looks familiar, do not use it;
-- for code, follow your organisation's rules on review and on licences.
 
-**Say how it was made, where that is expected.** Where no rule applies, disclose AI's part whenever the reader would feel misled to learn of it later. In every case you take full responsibility for the content.
+**Say how it was made, where that is expected.** Your policy, a client contract or a regulator may require it. Where no rule applies, disclose AI's part whenever the reader would feel misled to learn of it later. In every case you take full responsibility for the content.
 
 ### Question 3: What does my employer require?
 
@@ -52,8 +51,6 @@ The most useful thing you can give an assistant is real material from your work.
 - who to ask, and how to report a problem.
 
 **If there is no policy,** ask in writing which tools are permitted and for what. Until you have an answer, keep internal and restricted information out.
-
-**If the policy seems too strict,** follow it, and make the case for changing it with a specific example.
 
 **If you make a mistake,** report it quickly. Early reporting usually means the information can be deleted and the matter closed.
 
@@ -86,7 +83,7 @@ Asking the client for consent would take longer than a week. He strips the mater
 - He turns the usage figures into percentages and trends: "usage of service A grew by about a third over the year, and service B was flat".
 - He does not upload the tickets. He reads them and writes five lines on the recurring themes, with no names.
 
-He gives the assistant that summary and asks for a proposal structure and a first draft. He puts the real figures and the client's name in himself afterwards.
+He checks with his manager that a de-identified summary of this kind is acceptable under clause 11. He gives the assistant that summary and asks for a proposal structure and a first draft. He puts the real figures and the client's name in himself afterwards.
 
 **The analyst report.** His firm subscribes to an industry analyst's reports, and a recent one has market figures that would strengthen the proposal. He is about to upload the PDF when he remembers the policy's line about licensed content. The subscription terms prohibit uploading reports to AI tools. He reads the report himself and uses two figures with attribution, as the licence allows.
 

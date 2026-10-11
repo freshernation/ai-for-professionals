@@ -113,7 +113,7 @@ Beatriz is finance director of a group of veterinary clinics. On Thursday she pr
 7. We propose a recruitment budget of 240,000 for the next two quarters
 8. The decision needed today
 
-She reads them aloud. The argument holds. She moves slide 8's request up to follow slide 1, so that the board knows from the start what they are being asked for. She checks each number against her own management accounts. Slide 6 first said "about three points". Her own calculation gives one and a half, and she corrects it.
+She reads them aloud. The argument holds. She adds a line to her opening saying what she will ask for at the end, so that the board knows from the start. She checks each number against her own management accounts. Slide 6 first said "about three points". Her own calculation gives one and a half, and she corrects it.
 
 **Evidence.** For each title she asks for the one supporting item. The suggestions are a single large number for slide 1, a two-bar chart for slide 2, a simple breakdown for slide 3, and so on. The twenty-two tables go into an appendix.
 
@@ -150,7 +150,7 @@ Availability depends on your plan and changes often. All of them work better fro
 
 ## In the module session
 
-The instructor builds a storyline live from a volunteer's material, extracts a learner's voice from samples and shows the before and after, and runs a rehearsal with the assistant as the sceptic.
+The instructor builds a storyline live from a volunteer's material, extracts a learner's voice from samples and shows the before and after, and, time permitting, runs a rehearsal with the assistant as the sceptic.
 
 ## Check yourself
 

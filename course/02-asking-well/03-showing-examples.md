@@ -89,7 +89,7 @@ when the current service contract renews.
 Ingrid
 
 Now write a follow-up for this visit:
-- Food processing plant, met the hygiene manager
+- Food processing plant, visited Monday, met the hygiene manager
 - They need to clean between production runs in under 20 minutes
 - Current kit takes about 35
 - Interested in the ride-on model but worried about training time
@@ -117,7 +117,7 @@ Ingrid saves the prompt with the two examples in her notes file. From then on, e
 
 ## In the module session
 
-The instructor shows live how the number and variety of examples change the output, demonstrates capturing a voice from samples and saving it for reuse, and works on format skeletons for the recurring documents the group produces.
+The instructor shows live how the number and variety of examples change the output, demonstrates capturing a voice from samples and saving it for reuse, and, time permitting, works on format skeletons.
 
 ## Check yourself
 

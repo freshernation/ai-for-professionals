@@ -26,7 +26,7 @@ A good page does one job. Decide what it is before you ask for anything.
 1. **Purpose and the one action.** What should a visitor do? Register, download or email you. Choose one.
 2. **Audience.** Who is arriving, what do they already know, and what would make them hesitate?
 3. **Sections, in order.** Usually: a headline and one line of explanation; the key facts; the reasons to act; answers to likely questions; the action again.
-4. **The content.** Your real words and facts. The assistant will not invent them, or will invent them badly.
+4. **The content.** Your real words and facts. The assistant does not know them, and will invent them if you leave a gap.
 5. **Look and tone.** Your organisation's colours and style, plain or lively.
 
 ```
@@ -97,11 +97,11 @@ She then asks: "List every statistic, quotation, name and claim on this page, an
 
 Dietary requirements can also reveal health or religious information, and that calls for care. She does not try to make the form work. She has the button changed to link to the firm's approved event registration tool, which the HR team already uses, and she sets up the event there with a privacy notice written by the firm.
 
-**Checks.** On her phone, the list of talks runs off the edge of the screen, and she has it fixed. The accessibility check reports that pale green text on white is hard to read and that two images have no description. She clicks every link. The map link points to the wrong building, so she corrects it.
+**Checks.** On her phone, the list of talks runs off the edge of the screen, and she has it fixed. The accessibility check reports that pale green text on white is hard to read and that two images have no description, and she has both fixed. She clicks every link. The map link points to the wrong building, so she corrects it.
 
 **Publishing.** She sends the share link to the communications team with a note: "This is a working prototype of the open evening page. All content is checked. The button goes to our registration tool. Could this go on the careers section?"
 
-Because nothing needs to be designed or written, they rebuild it in the company's system in an hour. They replace her AI-generated header image with a photograph of one of the firm's real plants, and add the standard footer with the privacy link.
+Because nothing needs to be designed or written, they rebuild it in the company's system in an hour. They add a photograph of one of the firm's real plants as the header, and the standard footer with the privacy link.
 
 The page is live on the firm's own website two days later. The assistant's first version had contained three invented claims and a form that did nothing, and it had looked finished.
 
@@ -122,7 +122,7 @@ The page is live on the firm's own website two days later. The assistant's first
 ## Ignore for now
 
 - Search engine optimisation and analytics.
-- Multi-page sites. One page that does one job is the skill to learn first.
+- Multi-page sites.
 
 ## In the module session
 

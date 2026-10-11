@@ -121,7 +121,7 @@ The chart comes back titled "Sales turnover is 40%, more than twice the company 
 
 **Asking for criticism again.** The assistant notes that a twelve-month figure hides when people left, and that the rate uses current headcount where it could use the average over the year. Yuki checks the dates. Eleven of the sixteen Sales leavers went in the three months after a change to the commission plan. She adds a second chart, a line of Sales leavers by month, with the commission change marked. She words the title with care: "Most Sales departures followed the commission change in March". The title says they followed it. It does not say the change caused them. She does not have the evidence for cause, and says so in her notes.
 
-**The dashboard.** Leadership will want this every quarter. She lists four questions: overall turnover against last year; turnover by department; leavers by length of service; and time to fill vacancies. She asks the assistant to help her build a summary sheet with four charts driven by formulas, so that it updates when she adds new rows. She writes the definitions at the top: "leaver" means a voluntary resignation, and the rate is leavers divided by average headcount.
+**The dashboard.** Leadership will want this every quarter. She lists four questions: overall turnover against last year; turnover by department; leavers by length of service; and time to fill vacancies. She asks the assistant to help her build a summary sheet with four charts driven by formulas, so that it updates when she adds new rows. She writes the definitions at the top: "leaver" means anyone who left in the period, and the rate is leavers divided by current headcount.
 
 She presents two charts. The discussion is about Sales and the commission plan, which is where it needed to be.
 
@@ -146,7 +146,7 @@ She presents two charts. The discussion is about Sales and the commission plan, 
 
 ## In the module session
 
-The instructor builds a chart live from a learner's question, shows the same data telling two different stories as counts and as rates, and builds a small interactive dashboard, with the group checking each chart against the data.
+The instructor builds a chart live from a learner's question, shows the same data telling two different stories as counts and as rates, and shows how a chart can be made to mislead, with the group checking each chart against the data.
 
 ## Check yourself
 

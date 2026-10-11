@@ -126,7 +126,6 @@ Had Chiara let the agent send replies and issue refunds "to save the team time",
 - Fully autonomous agents that act with no approval.
 - Technical defences against prompt injection. Limiting what the agent can do is the defence you control.
 
-
 ## In the module session
 
 The instructor demonstrates a prompt injection against an agent in a safe setting, shows the same attack failing when one of the three conditions is removed, and works through the group's own lists of actions.

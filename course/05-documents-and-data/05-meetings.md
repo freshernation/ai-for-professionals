@@ -141,10 +141,9 @@ Which features you have depends on your plan and on what your organisation has e
 - Recording every meeting by default. Choose the meetings where an accurate record matters.
 - Tools that join meetings on your behalf when you are absent.
 
-
 ## In the module session
 
-The instructor turns a recorded mock meeting into notes live, with planted traps for the group to find, compares notes made from a transcript and from rough notes, and covers consent and the choice of tool.
+The instructor turns a recorded mock meeting into notes live, with planted traps for the group to find, and covers how to ask for consent to record.
 
 ## Check yourself
 

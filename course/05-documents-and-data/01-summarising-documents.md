@@ -107,7 +107,7 @@ The summary had dropped two things. The customer cannot leave for the first two 
 
 **Surprises.** He asks what is unusual or one-sided. The assistant lists the unequal notice periods, the uncapped fuel surcharge, and an automatic renewal for a further 24 months unless notice is given six months before the end. Kofi had missed the last one entirely.
 
-In forty minutes he has a one-page note for the managing director with four concerns, each quoted from the contract with its clause number, and four questions for the solicitor. The first summary was about four-fifths right. The fifth that was wrong included the two points that would have cost the most.
+In forty minutes he has a one-page note for the managing director with four concerns, each quoted from the contract with its clause number, and four questions for the solicitor. Most of the first summary's sentences were accurate. The parts that were wrong or missing were the ones that would have cost the most.
 
 ## Try it on your own work
 
